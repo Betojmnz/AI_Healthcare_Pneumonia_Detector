@@ -5,8 +5,8 @@ Creation of a Pneumonia detection assistant using 2D x-ray images and pass them 
 ## Project Steps
 This project has the following steps.
 
-* Exploratory Data Analysis
-* Building and Training Your Model
+* Exploratory Data Analysis (EDA Jupyter file)
+* Model Build and Train
 * Clinical Workflow Integration
-* FDA Preparation
+* FDA Preparation (see Project Submission PDF file)
 
